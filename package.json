@@ -1,6 +1,6 @@
 {
   "name": "seneca-ifttt-maker",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "keywords": [],
@@ -19,4 +19,3 @@
     "eslint": "^2.11.1"
   }
 }
-
